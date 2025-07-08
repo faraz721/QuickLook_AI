@@ -27,8 +27,6 @@ The required Python libraries are:
 - requests  
 - python-dotenv  
 
-These can be installed using the command below.
-
 ---
 
 ## How to Run the App
