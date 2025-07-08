@@ -1,0 +1,27 @@
+QuickLook AI - Setup Instructions
+
+1. Make sure you have Python installed (version 3.7 or higher).
+   You can download it from: https://www.python.org/downloads/
+
+2. Open your terminal or command prompt.
+
+3. Navigate to the folder where the project is saved using the 'cd' command.
+
+4. Install the required libraries by running:
+   pip install -r requirements.txt
+
+5. Create a new file in the project folder and name it:
+   .env
+
+6. Inside the .env file, paste your API key like this:
+   SERPER_API_KEY=your_api_key_here
+
+7. To run the app, use this command:
+   streamlit run QuickLook_AI.py
+
+8. A browser window will open showing the app. You can now ask questions and view answers from the web.
+
+---
+
+Note:
+This application is intended for educational and informational use only. It retrieves public data and does not engage in conversation or generate text.
